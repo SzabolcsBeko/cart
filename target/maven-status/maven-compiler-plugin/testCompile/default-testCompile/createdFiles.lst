@@ -1,0 +1,3 @@
+hu\webtown\cart\domain\DomainTest.class
+hu\webtown\cart\service\ServiceTest.class
+hu\webtown\cart\webcontroller\ControllerTest.class
